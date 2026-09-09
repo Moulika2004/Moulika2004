@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I'm Moulika<br><br> 🎯 Data Analyst | Data Science Enthusiast | Machine Learning<br><br>I'm an Integrated M.Tech Computer Science student specializing in Data Science  with a strong interest in Data Analytics, Machine Learning, and data-driven problem solving.<br><br>I have hands-on experience with Python, SQL, Data Analysis, ETL, Data Validation, Reporting Automation, and Workflow Optimization. During my internship at Guardian India Operations, I worked on data migration, validation, competitor plan analysis, and reporting automation using Databricks, Alteryx, Python, SQL, and Tableau.<br><br>🛠️ Skills<br><br>🐍 Programming: Python, R<br>🗄️Databases: SQL, MySQL<br>📊 Data Analysis: Pandas, NumPy, EDA<br>🤖 Machine Learning: Scikit-learn, Machine Learning<br>📈 Visualization: Power BI, Matplotlib, Seaborn, Excel<br>🔄 Data & ETL: Databricks, Alteryx, ETL, Data Validation<br>🛠️ Tools: Jupyter Notebook, VS Code, Git, GitHub<br><br>💼 Experience<br><br>Data Analyst Intern | Data & Platforms Engineer Team<br>Guardian India Operations | Jul 2025 – May 2026<br><br>->Migrated and validated legacy DB2P and SIMON SQL queries to Databricks SQL, reducing dependency on legacy platforms and improving production workflow efficiency.<br>Performed end-to-end data validation using record reconciliation, field-level comparison, null handling, and data type consistency checks to ensure data integrity.<br>Developed and optimized Alteryx workflows for data transformation, validation, and reporting automation, improving operational efficiency.<br>Built a Python-based Universal Source Comparison Tool to automate cross-source validation, reducing manual effort and enhancing data quality.<br>->Analyzed competitor healthcare plan data across 21 U.S. states from Healthcare.gov to support business insights and Tableau reporting.<br>->Automated reporting workflows , reducing manual effort by ~70% and improving reporting accuracy and turnaround time.<br>->Supported Salesforce BAU reporting by preparing daily, weekly, and monthly business reports.<br><br>🚀 Featured Project<br><br>🎬 Movie Recommendation System<br><br>Built a content-based movie recommender system using Python, NLP, and TMDB API. Used movie metadata (titles, <br>genres, overviews, cast, crew) and cosine similarity for recommendations. Added a user-friendly web application using <br>Streamlit and made the interface better with dynamic movie posters through the TMDB API. Used text preprocessing, <br>feature extraction using Count Vectorizer, and cosine similarity for accurate results.<br><br>🎓 Education<br><br>M.Tech (Integrated) – CSE, Data Science<br>Vellore Institute of Technology, Vellore<br>CGPA: 8.38 | 2021 – 2026<br><br>📜 Certifications<br><br>•Alteryx Designer Core Certified<br>•Machine Learning Methods and Tools – IBM<br>•Python (Basic) – HackerRank<br>•SQL (Basic) – HackerRank<br>•TCS ION Career Edge – Young Professional<br><br>🌱 Currently Learning<br><br>•Advanced SQL<br>•Power BI & DAX<br>•Python for Data Analytics<br>•Machine Learning<br>•Data Visualization<br><br><br>🤝 Connect With Me<br><br>• 📧 Email: moulikaroyalz2004@gmail.com<br><br>I'm interested in Data Analytics, Machine Learning, and data-driven projects.<br><br>Feel free to explore my repositories and connect with me!<br>
 
-<!--
-**Moulika2004/Moulika2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/moulika-s-9424ba33b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moulikaroyalz2004@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Moulika2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Moulika2004&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Moulika2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Moulika2004&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
